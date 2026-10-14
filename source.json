@@ -18,6 +18,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.1.2",
+          "buildVersion": "5",
+          "date": "2026-10-14T09:45:05Z",
+          "localizedDescription": "Backup import works again: after you pick a backup file, the confirmation now appears instead of being lost, and it is a standard alert with Cancel and Replace.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/v1.1.2/Setsu-1.1.2-unsigned.ipa",
+          "size": 2864877,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.1",
           "buildVersion": "4",
           "date": "2026-10-14T09:27:13Z",
