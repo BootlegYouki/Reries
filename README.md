@@ -13,3 +13,11 @@ Open [Releases](../../releases) and pick the newest release of the app you want.
 
 - **Android:** `<App>-<version>.apk`. Open it on your phone and allow installing from this source.
 - **iPhone:** `<App>-<version>-unsigned.ipa`. It is not signed, so sign and install it with a sideloading tool such as SideStore or AltStore. Needs iOS 26 or later.
+
+## Updates in KSign
+
+Add this source in KSign (or any app that reads AltStore sources) to see new versions and install them without coming back here:
+
+```
+https://raw.githubusercontent.com/BootlegYouki/Reries/master/source.json
+```

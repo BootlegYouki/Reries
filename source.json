@@ -1,0 +1,50 @@
+{
+  "name": "Reries",
+  "identifier": "com.bootlegyouki.reries",
+  "subtitle": "BootlegYouki's apps",
+  "description": "Every app here keeps its data on your phone: no account, no cloud sync.",
+  "iconURL": "https://raw.githubusercontent.com/BootlegYouki/Reries/master/icons/setsu.png",
+  "website": "https://github.com/BootlegYouki/Reries",
+  "tintColor": "2E9A4E",
+  "apps": [
+    {
+      "name": "Setsu",
+      "bundleIdentifier": "com.bootlegyouki.vaultleg.swift",
+      "developerName": "BootlegYouki",
+      "subtitle": "Personal finance tracker",
+      "localizedDescription": "Track budgets, expenses, goals and debts. Everything stays on your iPhone, with backups you can export and restore.",
+      "iconURL": "https://raw.githubusercontent.com/BootlegYouki/Reries/master/icons/setsu.png",
+      "tintColor": "2E9A4E",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "buildVersion": "4",
+          "date": "2026-10-14T09:27:13Z",
+          "localizedDescription": "The balance card is now a Liquid Glass card stack: your other budgets peek out behind it, and tapping sends the front card to the back.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/v1.1.1/Setsu-1.1.1-unsigned.ipa",
+          "size": 2862373,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.1.0",
+          "buildVersion": "3",
+          "date": "2026-10-14T08:36:03Z",
+          "localizedDescription": "iOS 26 design with the Liquid Glass tab bar, backup export and restore in Settings, the bamboo app icon, and Analytics and Calendar as native lists.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/v1.1.0/Setsu-1.1.0-unsigned.ipa",
+          "size": 2820853,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-10-14T06:23:57Z",
+          "localizedDescription": "First release of Setsu for iPhone.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/v1.0.0/Setsu-1.0.0-unsigned.ipa",
+          "size": 2742674,
+          "minOSVersion": "18.0"
+        }
+      ]
+    }
+  ]
+}
