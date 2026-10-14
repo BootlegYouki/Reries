@@ -18,6 +18,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.1.3",
+          "buildVersion": "6",
+          "date": "2026-10-14T09:50:44Z",
+          "localizedDescription": "Import Backup works in copies installed with KSign: picking the backup file now opens it instead of doing nothing.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/v1.1.3/Setsu-1.1.3-unsigned.ipa",
+          "size": 2877629,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.2",
           "buildVersion": "5",
           "date": "2026-10-14T09:45:05Z",
