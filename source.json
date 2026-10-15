@@ -63,6 +63,27 @@
           "minOSVersion": "18.0"
         }
       ]
+    },
+    {
+      "name": "Tabi",
+      "bundleIdentifier": "com.bootlegyouki.tabi",
+      "developerName": "BootlegYouki",
+      "subtitle": "Applicant manager for overseas deployment",
+      "localizedDescription": "Track applicants going abroad: requirements, appearance reminders, cash advances, sub-agents and work expenses, plus open DFA passport appointment dates. Everything stays on your iPhone, with backups you can export and restore.",
+      "iconURL": "https://raw.githubusercontent.com/BootlegYouki/Reries/master/icons/tabi.png",
+      "tintColor": "2381C4",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "9",
+          "date": "2026-10-15T02:50:17Z",
+          "localizedDescription": "First release of Tabi: applicants and their requirements, appearance reminders, cash advances in pesos or dollars, sub-agents, work expenses, a printable report, and open DFA passport appointment dates per site.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/tabi-v1.0.0/Tabi-1.0.0-unsigned.ipa",
+          "size": 2838191,
+          "minOSVersion": "26.0"
+        }
+      ]
     }
   ]
 }
