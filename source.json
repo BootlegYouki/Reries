@@ -18,6 +18,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.2.0",
+          "buildVersion": "8",
+          "date": "2026-10-16T02:02:44Z",
+          "localizedDescription": "Light and dark mode, solid cards, budget search, sort and edit, working quick entries, in-page search and filter buttons. Removed Analytics, Calendar and Recurring Expenses.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/v1.2.0/Setsu-1.2.0-unsigned.ipa",
+          "size": 2674621,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.4",
           "buildVersion": "7",
           "date": "2026-10-15T02:59:24Z",
@@ -83,6 +92,15 @@
       "tintColor": "2381C4",
       "category": "utilities",
       "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "10",
+          "date": "2026-10-16T02:02:44Z",
+          "localizedDescription": "Vaccine replaces TESDA as a cash advance milestone, normal text sizes, step-by-step requirement expenses, in-page search and buttons, solid cards. Removed Print Report.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/tabi-v1.1.0/Tabi-1.1.0-unsigned.ipa",
+          "size": 2878152,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.0.0",
           "buildVersion": "9",
