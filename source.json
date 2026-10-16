@@ -18,6 +18,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.2.2",
+          "buildVersion": "10",
+          "date": "2026-10-16T03:25:25Z",
+          "localizedDescription": "Quick entry buttons on Home show only the name; the amount still shows when you confirm.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/v1.2.2/Setsu-1.2.2-unsigned.ipa",
+          "size": 2663478,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.2.1",
           "buildVersion": "9",
           "date": "2026-10-16T03:17:57Z",
