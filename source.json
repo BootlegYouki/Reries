@@ -18,6 +18,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.2.1",
+          "buildVersion": "9",
+          "date": "2026-10-16T03:17:57Z",
+          "localizedDescription": "Add and edit sheets fit their contents; quick entry confirm is a clear alert; Budget total shows Over Budget instead of a negative amount.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/v1.2.1/Setsu-1.2.1-unsigned.ipa",
+          "size": 2663477,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.2.0",
           "buildVersion": "8",
           "date": "2026-10-16T02:02:44Z",
