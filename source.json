@@ -18,6 +18,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.3.1",
+          "buildVersion": "12",
+          "date": "2026-10-16T07:38:25Z",
+          "localizedDescription": "Undo after every add, edit and delete. Fixed swipe-to-delete hiding a budget before you confirmed. Standard alerts for deleting and erasing. Home: larger quick entries below Goals and Debts. Sheets ignore rapid repeat taps.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/v1.3.1/Setsu-1.3.1-unsigned.ipa",
+          "size": 2786166,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.3.0",
           "buildVersion": "11",
           "date": "2026-10-16T06:52:19Z",
