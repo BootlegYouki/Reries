@@ -18,6 +18,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.3.0",
+          "buildVersion": "11",
+          "date": "2026-10-16T06:52:19Z",
+          "localizedDescription": "Add and edit sheets resize smoothly between steps. The date sits under the amount in the first step, and the last step is a taller notes field. Sheets have no close button: swipe down or tap outside to close.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/v1.3.0/Setsu-1.3.0-unsigned.ipa",
+          "size": 2679006,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.2.2",
           "buildVersion": "10",
           "date": "2026-10-16T03:25:25Z",
