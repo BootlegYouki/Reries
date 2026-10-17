@@ -147,6 +147,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.1.1",
+          "buildVersion": "11",
+          "date": "2026-10-17T14:23:26Z",
+          "localizedDescription": "Passport appointment dates load again. If the DFA website asks to check you're human, tap the box once and the dates load.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/tabi-v1.1.1/Tabi-1.1.1-unsigned.ipa",
+          "size": 2922296,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.0",
           "buildVersion": "10",
           "date": "2026-10-16T02:02:44Z",
