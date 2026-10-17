@@ -18,6 +18,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.4.1",
+          "buildVersion": "22",
+          "date": "2026-10-17T05:00:18Z",
+          "localizedDescription": "Budgets are now sources. Debts move money through a source with a date, and their entries change only through the debt. Editing a debt can fix Paid So Far, and a half-paid debt can be written off or undone. The source named MariBank earns MariBank's daily interest at 1 AM. Activity has Clear All, backups leave the activity list out, and only the Undo button undoes.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/v1.4.1/Setsu-1.4.1-unsigned.ipa",
+          "size": 771381,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.3.2",
           "buildVersion": "13",
           "date": "2026-10-16T07:56:27Z",
