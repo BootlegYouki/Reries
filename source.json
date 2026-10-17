@@ -147,6 +147,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.1.2",
+          "buildVersion": "12",
+          "date": "2026-10-17T14:40:53Z",
+          "localizedDescription": "Passport dates load again: the DFA check closes after Start an Appointment and says what to tap.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/tabi-v1.1.2/Tabi-1.1.2-unsigned.ipa",
+          "size": 2927672,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.1",
           "buildVersion": "11",
           "date": "2026-10-17T14:23:26Z",
