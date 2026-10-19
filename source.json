@@ -18,6 +18,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.5.0",
+          "buildVersion": "23",
+          "date": "2026-10-19T05:42:52Z",
+          "localizedDescription": "Transfer money between sources, like MariBank to Cash, from a source's page: both balances change without counting as spending or income. New icons throughout, a proper sort icon, and the Include Debt in Balance setting is gone since debts now move money themselves.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/v1.5.0/Setsu-1.5.0-unsigned.ipa",
+          "size": 4025868,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.4.1",
           "buildVersion": "22",
           "date": "2026-10-17T05:00:18Z",
