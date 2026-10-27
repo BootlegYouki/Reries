@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.7.1",
+          "buildVersion": "13",
+          "date": "2026-10-27T22:27:13Z",
+          "localizedDescription": "Tapping On retries once by itself when the send fails, so you no longer have to keep tapping.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.7.1/Denki-1.7.1-unsigned.ipa",
+          "size": 2775975,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.7.0",
           "buildVersion": "12",
           "date": "2026-10-27T18:19:50Z",
