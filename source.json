@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.3.0",
+          "buildVersion": "5",
+          "date": "2026-10-27T10:12:10Z",
+          "localizedDescription": "Remote: see the PC screen live from Sunshine with a trackpad and keyboard below, plus a sideways fullscreen mode. The Claude Remote button is gone.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.3.0/Denki-1.3.0-unsigned.ipa",
+          "size": 2495621,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.2.0",
           "buildVersion": "4",
           "date": "2026-10-27T04:01:36Z",
