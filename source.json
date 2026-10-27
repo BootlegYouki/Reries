@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.4.1",
+          "buildVersion": "8",
+          "date": "2026-10-27T14:05:42Z",
+          "localizedDescription": "Opening Remote now starts Sunshine on the PC, so it no longer has to run all the time.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.4.1/Denki-1.4.1-unsigned.ipa",
+          "size": 2669909,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.4.0",
           "buildVersion": "7",
           "date": "2026-10-27T13:19:44Z",
