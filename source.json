@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.6.0",
+          "buildVersion": "11",
+          "date": "2026-10-27T17:30:25Z",
+          "localizedDescription": "Type straight onto the PC with a live preview and cursor, zoom slider with two-finger panning, every finger shows on the trackpad, more room for the stream, and the Lock button works again.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.6.0/Denki-1.6.0-unsigned.ipa",
+          "size": 3010478,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.5.1",
           "buildVersion": "10",
           "date": "2026-10-27T16:46:35Z",
