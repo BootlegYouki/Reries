@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.2.0",
+          "buildVersion": "4",
+          "date": "2026-10-27T04:01:36Z",
+          "localizedDescription": "New Claude Remote button while the PC is on: it opens herdr on the PC, closes the Claude session there and starts claude remote, so you can pick it up from the Claude app.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.2.0/Denki-1.2.0-unsigned.ipa",
+          "size": 824134,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.1.1",
           "buildVersion": "3",
           "date": "2026-10-16T03:19:16Z",
