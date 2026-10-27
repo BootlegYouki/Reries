@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.7.0",
+          "buildVersion": "12",
+          "date": "2026-10-27T18:19:50Z",
+          "localizedDescription": "Remote is portrait only now. The scroll bar on the left is an up/down joystick: drag further for faster scrolling. At full zoom the stream itself becomes the trackpad. Send to PC, Copy from PC and Unpair are in the ⋯ menu. A close-keyboard button sits next to the typing preview. Japanese and other non-English characters type correctly on the PC. Fixed the header buttons not responding while zoomed.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.7.0/Denki-1.7.0-unsigned.ipa",
+          "size": 2775071,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.6.0",
           "buildVersion": "11",
           "date": "2026-10-27T17:30:25Z",
