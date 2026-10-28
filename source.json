@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.10.0",
+          "buildVersion": "17",
+          "date": "2026-10-28T18:58:01Z",
+          "localizedDescription": "Pairing with Sunshine is one tap: Denki enters the PIN on the PC for you. Needs the Denki 1.10.0 PC app with your Sunshine login entered once in Setup. If the PC can't be reached, the PIN shows like before.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.10.0/Denki-1.10.0-unsigned.ipa",
+          "size": 2975392,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.9.0",
           "buildVersion": "16",
           "date": "2026-10-28T09:30:15Z",
