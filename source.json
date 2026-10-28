@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.8.1",
+          "buildVersion": "15",
+          "date": "2026-10-28T09:21:33Z",
+          "localizedDescription": "The click buttons under the trackpad are plain pads like a laptop's, without text.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.8.1/Denki-1.8.1-unsigned.ipa",
+          "size": 2812503,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.8.0",
           "buildVersion": "14",
           "date": "2026-10-28T09:16:24Z",
