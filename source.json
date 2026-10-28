@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.8.0",
+          "buildVersion": "14",
+          "date": "2026-10-28T09:16:24Z",
+          "localizedDescription": "Left Click and Right Click buttons under the trackpad. Tap Super twice to press it alone. Done closes the keyboard before leaving Remote, and the Power screen no longer jumps up afterwards.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.8.0/Denki-1.8.0-unsigned.ipa",
+          "size": 2822231,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.7.1",
           "buildVersion": "13",
           "date": "2026-10-27T22:27:13Z",
