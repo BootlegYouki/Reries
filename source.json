@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.9.0",
+          "buildVersion": "16",
+          "date": "2026-10-28T09:30:15Z",
+          "localizedDescription": "Saved PCs: tap PCs on the Power screen to switch between paired PCs, add another, or swipe to forget one. Your current PC is kept.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.9.0/Denki-1.9.0-unsigned.ipa",
+          "size": 2969167,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.8.1",
           "buildVersion": "15",
           "date": "2026-10-28T09:21:33Z",
