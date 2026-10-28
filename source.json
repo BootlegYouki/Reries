@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.10.1",
+          "buildVersion": "18",
+          "date": "2026-10-28T23:56:03Z",
+          "localizedDescription": "New pairing screen with Cancel and an Open Sunshine button. Pair asks for your Sunshine login if the PC doesn't have it, then pairs in one go. Fixed pairing getting stuck with 'a pairing session with this uniqueid already exists'.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.10.1/Denki-1.10.1-unsigned.ipa",
+          "size": 3364480,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.10.0",
           "buildVersion": "17",
           "date": "2026-10-28T18:58:01Z",
