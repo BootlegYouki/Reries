@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.10.2",
+          "buildVersion": "19",
+          "date": "2026-10-29T00:17:55Z",
+          "localizedDescription": "Sunshine login is now a half-height sheet with a big Save button and AutoFill, and shows when your PC already has the login saved.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.10.2/Denki-1.10.2-unsigned.ipa",
+          "size": 3521048,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.10.1",
           "buildVersion": "18",
           "date": "2026-10-28T23:56:03Z",
