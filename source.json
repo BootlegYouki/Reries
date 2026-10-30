@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.1",
+          "buildVersion": "23",
+          "date": "2026-10-30T22:37:17Z",
+          "localizedDescription": "The Claude chat now looks like the Claude app: only replies show, commands are tucked into a row you can expand, and sessions live in a side menu.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.1/Denki-1.12.1-unsigned.ipa",
+          "size": 4522976,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.0",
           "buildVersion": "22",
           "date": "2026-10-30T22:21:57Z",
