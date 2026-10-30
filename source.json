@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.11.0",
+          "buildVersion": "20",
+          "date": "2026-10-30T03:32:26Z",
+          "localizedDescription": "Left and right click buttons in full zoom. Hold the left click button and move on the trackpad to select text or drag. Full zoom turns on as soon as the trackpad gets too small to use.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.11.0/Denki-1.11.0-unsigned.ipa",
+          "size": 3581472,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.10.2",
           "buildVersion": "19",
           "date": "2026-10-29T00:17:55Z",
