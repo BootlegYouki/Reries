@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.11.1",
+          "buildVersion": "21",
+          "date": "2026-10-30T03:38:18Z",
+          "localizedDescription": "Copy, Paste, Undo and Super buttons in Mouse mode. No more finger circles when you swipe in full zoom.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.11.1/Denki-1.11.1-unsigned.ipa",
+          "size": 3599136,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.11.0",
           "buildVersion": "20",
           "date": "2026-10-30T03:32:26Z",
