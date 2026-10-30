@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.4",
+          "buildVersion": "26",
+          "date": "2026-10-30T22:44:44Z",
+          "localizedDescription": "In the Claude chat you can send another message while Claude is working, and the conversation no longer jumps upwards.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.4/Denki-1.12.4-unsigned.ipa",
+          "size": 4546736,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.3",
           "buildVersion": "25",
           "date": "2026-10-30T22:43:34Z",
