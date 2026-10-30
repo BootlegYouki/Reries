@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.0",
+          "buildVersion": "22",
+          "date": "2026-10-30T22:21:57Z",
+          "localizedDescription": "New Claude button on the Power screen: read your Claude Code sessions running on the PC, reply, stop them and answer their permission prompts from your phone.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.0/Denki-1.12.0-unsigned.ipa",
+          "size": 4145848,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.11.1",
           "buildVersion": "21",
           "date": "2026-10-30T03:38:18Z",
