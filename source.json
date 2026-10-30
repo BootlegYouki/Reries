@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.3",
+          "buildVersion": "25",
+          "date": "2026-10-30T22:43:34Z",
+          "localizedDescription": "In the Claude chat you can now swipe right from the left edge to open the sessions menu and swipe left to close it.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.3/Denki-1.12.3-unsigned.ipa",
+          "size": 4543168,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.2",
           "buildVersion": "24",
           "date": "2026-10-30T22:40:35Z",
