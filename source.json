@@ -204,30 +204,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "1.12.4",
-          "buildVersion": "26",
-          "date": "2026-10-30T22:44:44Z",
-          "localizedDescription": "In the Claude chat you can send another message while Claude is working, and the conversation no longer jumps upwards.",
-          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.4/Denki-1.12.4-unsigned.ipa",
-          "size": 4546736,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.12.3",
-          "buildVersion": "25",
-          "date": "2026-10-30T22:43:34Z",
-          "localizedDescription": "In the Claude chat you can now swipe right from the left edge to open the sessions menu and swipe left to close it.",
-          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.3/Denki-1.12.3-unsigned.ipa",
-          "size": 4543168,
-          "minOSVersion": "26.0"
-        },
-        {
           "version": "1.12.2",
-          "buildVersion": "24",
-          "date": "2026-10-30T22:40:35Z",
-          "localizedDescription": "The Claude chat uses the normal app font again and the Mode button is gone from the reply box.",
+          "buildVersion": "27",
+          "date": "2026-10-30T23:13:12Z",
+          "localizedDescription": "Claude chat: attach photos, cleaner question card, swipe to open the sessions menu, send while Claude works, steadier scrolling and smoother animations.",
           "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.2/Denki-1.12.2-unsigned.ipa",
-          "size": 4486128,
+          "size": 4831664,
           "minOSVersion": "26.0"
         },
         {
