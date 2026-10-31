@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.14",
+          "buildVersion": "39",
+          "date": "2026-10-31T02:29:06Z",
+          "localizedDescription": "Claude chat: question answers show as messages, AI note removed.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.14/Denki-1.12.14-unsigned.ipa",
+          "size": 5424193,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.13",
           "buildVersion": "38",
           "date": "2026-10-31T02:20:02Z",
