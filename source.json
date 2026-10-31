@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.4",
+          "buildVersion": "29",
+          "date": "2026-10-31T01:19:50Z",
+          "localizedDescription": "Fixed the + button in the Claude chat and a faded message that could stay stuck.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.4/Denki-1.12.4-unsigned.ipa",
+          "size": 5030592,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.3",
           "buildVersion": "28",
           "date": "2026-10-31T01:12:00Z",
