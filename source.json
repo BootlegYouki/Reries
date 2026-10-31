@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.13",
+          "buildVersion": "38",
+          "date": "2026-10-31T02:20:02Z",
+          "localizedDescription": "Claude chat: answer field on question cards no longer types stray numbers.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.13/Denki-1.12.13-unsigned.ipa",
+          "size": 5425977,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.12",
           "buildVersion": "37",
           "date": "2026-10-31T02:14:28Z",
