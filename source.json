@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.16",
+          "buildVersion": "41",
+          "date": "2026-10-31T02:36:16Z",
+          "localizedDescription": "Claude chat: Skip and X on question cards register taps.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.16/Denki-1.12.16-unsigned.ipa",
+          "size": 5420185,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.15",
           "buildVersion": "40",
           "date": "2026-10-31T02:31:49Z",
