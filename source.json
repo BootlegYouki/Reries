@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.19",
+          "buildVersion": "44",
+          "date": "2026-10-31T05:46:16Z",
+          "localizedDescription": "Claude chat: the password field matches the Remote screen.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.19/Denki-1.12.19-unsigned.ipa",
+          "size": 5258353,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.18",
           "buildVersion": "43",
           "date": "2026-10-31T02:45:00Z",
