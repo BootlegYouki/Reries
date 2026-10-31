@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.7",
+          "buildVersion": "32",
+          "date": "2026-10-31T01:40:33Z",
+          "localizedDescription": "Claude chat: Codex sessions listed again, swipe and tap fixes for the sessions menu.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.7/Denki-1.12.7-unsigned.ipa",
+          "size": 5150728,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.6",
           "buildVersion": "31",
           "date": "2026-10-31T01:36:04Z",
