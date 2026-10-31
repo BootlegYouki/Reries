@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.20",
+          "buildVersion": "45",
+          "date": "2026-10-31T05:51:10Z",
+          "localizedDescription": "Claude chat: opens Herdr by itself and retries when it is not running.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.20/Denki-1.12.20-unsigned.ipa",
+          "size": 5289537,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.19",
           "buildVersion": "44",
           "date": "2026-10-31T05:46:16Z",
