@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.18",
+          "buildVersion": "43",
+          "date": "2026-10-31T02:45:00Z",
+          "localizedDescription": "Claude chat: removed the unused terminal viewer code.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.18/Denki-1.12.18-unsigned.ipa",
+          "size": 5270433,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.17",
           "buildVersion": "42",
           "date": "2026-10-31T02:38:28Z",
