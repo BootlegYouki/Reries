@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.10",
+          "buildVersion": "35",
+          "date": "2026-10-31T02:02:10Z",
+          "localizedDescription": "Claude chat: close panes by swiping, one-row ring usage card, reopens your last chat.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.10/Denki-1.12.10-unsigned.ipa",
+          "size": 5352777,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.9",
           "buildVersion": "34",
           "date": "2026-10-31T01:56:29Z",
