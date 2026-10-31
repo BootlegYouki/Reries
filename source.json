@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.3",
+          "buildVersion": "28",
+          "date": "2026-10-31T01:12:00Z",
+          "localizedDescription": "Claude chat: log in to the PC from the chat and open Herdr, floating liquid glass reply box, faded queued messages, no Refresh button, smoother swipe to open the sessions menu.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.3/Denki-1.12.3-unsigned.ipa",
+          "size": 4994064,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.2",
           "buildVersion": "27",
           "date": "2026-10-30T23:13:12Z",
