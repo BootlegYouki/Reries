@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.11",
+          "buildVersion": "36",
+          "date": "2026-10-31T02:08:15Z",
+          "localizedDescription": "Claude chat: new question card, Other panes removed.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.11/Denki-1.12.11-unsigned.ipa",
+          "size": 5438545,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.10",
           "buildVersion": "35",
           "date": "2026-10-31T02:02:10Z",
