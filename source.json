@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.12",
+          "buildVersion": "37",
+          "date": "2026-10-31T02:14:28Z",
+          "localizedDescription": "Claude chat: question card shows only the live question.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.12/Denki-1.12.12-unsigned.ipa",
+          "size": 5438673,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.11",
           "buildVersion": "36",
           "date": "2026-10-31T02:08:15Z",
