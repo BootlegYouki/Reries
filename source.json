@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.8",
+          "buildVersion": "33",
+          "date": "2026-10-31T01:45:06Z",
+          "localizedDescription": "Claude chat: minimal floating usage pill with rings for context, 5 hour and weekly limits.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.8/Denki-1.12.8-unsigned.ipa",
+          "size": 5171120,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.7",
           "buildVersion": "32",
           "date": "2026-10-31T01:40:33Z",
