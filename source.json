@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.5",
+          "buildVersion": "30",
+          "date": "2026-10-31T01:32:55Z",
+          "localizedDescription": "Claude chat: context and usage limits at the top, messages send instantly, easier composer taps, Stop on first tap.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.5/Denki-1.12.5-unsigned.ipa",
+          "size": 5136128,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.4",
           "buildVersion": "29",
           "date": "2026-10-31T01:19:50Z",
