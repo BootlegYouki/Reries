@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.12.9",
+          "buildVersion": "34",
+          "date": "2026-10-31T01:56:29Z",
+          "localizedDescription": "Claude chat: title chooser instead of the sidebar, read-only view of other Herdr panes, one expandable usage bar.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.12.9/Denki-1.12.9-unsigned.ipa",
+          "size": 5228960,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.8",
           "buildVersion": "33",
           "date": "2026-10-31T01:45:06Z",
