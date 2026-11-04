@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.13.0",
+          "buildVersion": "47",
+          "date": "2026-11-04T07:59:21Z",
+          "localizedDescription": "New Sleep button on the Power screen. The app shows the PC as offline sooner after reopening. The Pico can optionally wake the PC on GitHub repo activity.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.13.0/Denki-1.13.0-unsigned.ipa",
+          "size": 5302912,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.12.21",
           "buildVersion": "46",
           "date": "2026-11-01T08:28:10Z",
