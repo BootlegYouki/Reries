@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.14.0",
+          "buildVersion": "48",
+          "date": "2026-11-05T16:06:35Z",
+          "localizedDescription": "Start Claude and Codex sessions from your phone, manage individual chat panes, and enjoy more reliable chat messages and navigation. Update the Denki PC daemon for the new session features.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.14.0/Denki-1.14.0-unsigned.ipa",
+          "size": 5441288,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.13.0",
           "buildVersion": "47",
           "date": "2026-11-04T07:59:21Z",
