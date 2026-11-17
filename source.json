@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.15.1",
+          "buildVersion": "50",
+          "date": "2026-11-17T05:22:08Z",
+          "localizedDescription": "Claude and Codex chats were removed. Orca is still available from the Power screen.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.15.1/Denki-1.15.1-unsigned.ipa",
+          "size": 3804472,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.15.0",
           "buildVersion": "49",
           "date": "2026-11-17T03:01:58Z",
