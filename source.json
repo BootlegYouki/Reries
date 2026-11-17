@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.15.0",
+          "buildVersion": "49",
+          "date": "2026-11-17T03:01:58Z",
+          "localizedDescription": "The Remote mouse works again and the stream defaults to 720p at 5 Mbps for mobile data. Claude chats suggest slash commands, new sessions let you pick the model, and messages send more reliably. Update the PC daemon too.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.15.0/Denki-1.15.0-unsigned.ipa",
+          "size": 5697192,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.14.0",
           "buildVersion": "48",
           "date": "2026-11-05T16:06:35Z",
