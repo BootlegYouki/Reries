@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.16.1",
+          "buildVersion": "52",
+          "date": "2026-11-18T16:04:44Z",
+          "localizedDescription": "A small zoom no longer moves the buttons over the screen and hides the power row. The trackpad shrinks first, and the buttons only float once it gets too small.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.16.1/Denki-1.16.1-unsigned.ipa",
+          "size": 3828064,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.16.0",
           "buildVersion": "51",
           "date": "2026-11-18T15:58:52Z",
