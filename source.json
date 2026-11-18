@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.16.0",
+          "buildVersion": "51",
+          "date": "2026-11-18T15:58:52Z",
+          "localizedDescription": "New console-style main screen with slide-to-power, glass controls and a wallpaper idle screen. Remote stream is the mouse, with two-finger scroll and bigger shortcut buttons. The stream has a little padding and rounded corners, and the login password prompt appears after waking or restarting the PC.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.16.0/Denki-1.16.0-unsigned.ipa",
+          "size": 3825760,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.15.1",
           "buildVersion": "50",
           "date": "2026-11-17T05:22:08Z",
