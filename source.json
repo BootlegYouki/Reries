@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.17.0",
+          "buildVersion": "53",
+          "date": "2026-11-23T15:10:18Z",
+          "localizedDescription": "The trackpad is gone and the stream is the mouse. A keyboard button sits beside Left and Right click, the header and zoom slider float on glass over the picture, holding the stream disconnects, and connecting grows a blurred square into the stream.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.17.0/Denki-1.17.0-unsigned.ipa",
+          "size": 4143192,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.16.1",
           "buildVersion": "52",
           "date": "2026-11-18T16:04:44Z",
