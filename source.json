@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.20.0",
+          "buildVersion": "56",
+          "date": "2026-11-25T06:50:58Z",
+          "localizedDescription": "The whole remote screen is the trackpad and pinch zooms (no more slider). The typing line is a real text box that mirrors the PC's focused text box live; moving its cursor or selecting moves the PC's, Select All works, and Backspace repeats. Fixes the mouse seeming dead after closing the keyboard and the stream landing late when it opens.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.20.0/Denki-1.20.0-unsigned.ipa",
+          "size": 4161904,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.19.0",
           "buildVersion": "55",
           "date": "2026-11-25T03:20:07Z",
