@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.18.0",
+          "buildVersion": "54",
+          "date": "2026-11-25T03:01:23Z",
+          "localizedDescription": "Turning the PC on is much faster: with the new optional wake relay, the wake reaches the Pico in about a second and the app confirms it right away. Set Wake relay URL in the PC's setup, update the Pico, then pair the iPhone again. If the relay is unreachable, wakes go through ntfy like before, and ntfy still notifies on every wake.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.18.0/Denki-1.18.0-unsigned.ipa",
+          "size": 4165576,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.17.0",
           "buildVersion": "53",
           "date": "2026-11-23T15:10:18Z",
