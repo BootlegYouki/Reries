@@ -204,6 +204,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.19.0",
+          "buildVersion": "55",
+          "date": "2026-11-25T03:20:07Z",
+          "localizedDescription": "The app now knows if the PC is on even when Tailscale isn't working, because the status comes through the wake relay. Shut down, restart, sleep and lock work without Tailscale too. When the PC is on but Tailscale can't reach it, the header says No Tailscale route instead of showing the PC as off; Remote still needs Tailscale.",
+          "downloadURL": "https://github.com/BootlegYouki/Reries/releases/download/denki-v1.19.0/Denki-1.19.0-unsigned.ipa",
+          "size": 4194408,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.18.0",
           "buildVersion": "54",
           "date": "2026-11-25T03:01:23Z",
